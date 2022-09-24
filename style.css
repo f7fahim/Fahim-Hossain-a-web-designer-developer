@@ -1,0 +1,425 @@
+*{
+   margin: 0%;
+}
+.fci img{
+    width: 80px;
+    float: left;
+    height: auto;
+
+}
+.bdy{
+    
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #000000;
+    background-color:#e4f7fa;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    box-sizing: border-box;
+}
+.s1{
+        padding-top: 0;
+    overflow: hidden;
+    background: #bdecf3;
+       
+}
+.naop{
+    box-shadow: none;
+    opacity: 1;
+    position: relative;
+    width: 100%;
+    z-index: 1000;
+    background: #8fdfeb;
+  
+     
+}
+ .nav-root {
+    background: #bdecf3;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+    display: block;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+    box-sizing: border-box;
+}
+.col-xs-4 {
+    width: 33.33333333%;
+        float: left;
+        position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.image-text {
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    display: block;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-indent: -9999px;
+}
+.mask {
+    background-image: url(/web/20180901170713im_/http://seanhalpin.io/assets/img/content/nav/header-logo-mask.png);
+    position: absolute;
+    height: 72px;
+    width: 72px;
+    z-index: 1000;
+}
+.beh {
+    background: #5dd3e5c4;
+    position: absolute;
+    height: 72px;
+    width: 72px;
+    z-index: 800;
+}
+.col-xs-8 {
+    width: 66.66666667%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.nav-list {
+    padding-top: 1.5em;
+    padding-left: 0;
+    position: relative;
+    float: right;
+}
+.active {
+    color: #000000;
+}
+<!------------------------02---------------------->
+.contar {
+    position: relative;
+    max-width: 750px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.cloud {
+    position: absolute;
+    background: url(/web/20180901170713im_/http://seanhalpin.io/assets/img/ui/cloud.svg) top left no-repeat;
+    width: 150px;
+    height: 45px;
+    -webkit-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+    z-index: 980;
+     
+}
+#title .left-cloud {
+    left: -6em;
+    bottom: 2em;
+}
+#title .right-cloud {
+    right: -5em;
+    top: 0;
+}
+
+
+.col-md-12{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#head-slider {
+    padding: 1em 0;
+}
+.im-sean{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+}
+
+.tra{
+    max-width: 240px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 990;
+}
+.header-desc{
+    text-align: center;
+    color: #45b29a;
+    padding: 1em 0;
+    font-size: 180%;
+    font-weight: 400;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+#earthder {
+    margin: 0 auto;
+    max-width: 800px;
+    overflow: hidden;
+}
+
+<!---------------------03---------------------->
+
+#hello {
+    z-index: 980;
+    position: relative;
+    padding: 3em 0 0;
+    margin: 0 0 3em;
+     
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.containa {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    min-width: 768px
+    max-width: 750px;
+}
+.col-md-12{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+ 
+.figureo {
+        margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    max-width: 150px;
+
+}
+.imgoo {
+
+    width: 100%;
+    vertical-align: middle;
+}
+.article {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    max-width: 460px;
+}
+
+.hho {
+    text-align: center;
+    padding: 0.5em 0;
+}
+.po {
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0 0 10px;
+    font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 300;
+}
+<!-----------------------......------------------------>
+.breaker{margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    max-width: 100px;
+}
+.line {
+    background-image: url(/web/20180901170713im_/http://seanhalpin.io/assets/img/ui/line-bg.png);
+    height: 8px;
+    width: 100%;
+} 
+
+<!-----------------------......------------------------>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!---------------------------06-------------------------->
+
+#i-can-help {
+    text-align: center;
+    padding: 0 0 4em;
+}
+
+.contain{
+    
+    max-width: 750px;
+ 
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.col-md-12{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#i-can-help .article {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.hdr{
+    background: 0 0;
+}
+.hh{
+
+    color: #1e836c;
+    text-align: center;
+    font-size: 3.8em;
+    font-weight: 400;
+}
+ 
+.hhh{
+      
+    padding-top: 1em;
+ 
+    font-size: 2em;
+    color: #45b29a;
+}
+ 
+.ppp{
+  
+    font-size: 1.5em;
+ 
+    margin: 0 0 10px;
+    font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 300;
+}
+ 
+.btn-hldr{
+    text-align: center;
+}
+
+.main-btn {
+    font-size: .8em;
+    text-align: center;
+    display: block;
+    position: relative;
+    background: #45b29a;
+    padding: 0.75em 2em 0.75em 3.5em;
+    color: #000000;
+    text-decoration: none;
+    margin: 1.5em 0 0;
+    border-radius: 3px;
+    
+    border: 0;
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    text-transform: uppercase;
+}
+
+<!-------------------------07------------------------->
+.contain{
+    
+    max-width: 750px;
+ 
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.col-md-12{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.footer-list {
+    overflow: hidden;
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+<!----------------------------08------------------------------->
+ 
+
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.col-md-12{
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+<!---------------------------end----------------------->
+
+
+
+.what-i-do {
+    z-index: 980;
+    position: relative;
+   
+    background: #bae5e5;
+    background-image:  none;
+    background-position-x: none;
+    background-position-y: none;
+    background-size: none;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(186, 229, 229);
+    padding: 0;
+}
